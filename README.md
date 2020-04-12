@@ -3,4 +3,4 @@ Themes for Windows.
 
 ## Copyright
 
-Copyright (c) Tech-H
+Copyright (c) Finger Labs.
