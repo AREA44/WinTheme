@@ -3,4 +3,4 @@ Themes for Windows.
 
 ## Copyright
 
-Copyright (c) Finger Labs.
+[MIT](LICENSE.md).
