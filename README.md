@@ -3,7 +3,7 @@
 A Windows Theme is a visual pattern that predefines the collection of wallpaper,
 icons, pointer, screensaver, sounds or any color styles which together form the looks of PC.
 
-There are Windows Themes available on **WinTheme** and it's free to download.
+There are Windows Themes available on WinTheme and it's free to download.
 
 ## License
 
