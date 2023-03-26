@@ -1,4 +1,6 @@
-# WinThemes
+<p align="center">
+  <img alt="WinThemes logo" src="./logo.jpg" width="100" />
+</p>
 
 **WinThemes** project is a GitHub repository that contains some themes for Windows. You can download and install them.
 
